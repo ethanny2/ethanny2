@@ -1,7 +1,7 @@
 # Thanks for stopping by! 👋
 
 ---
-[![Twitter Link](https://img.shields.io/badge/Chat-twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/ArrayLikeObj) [![Devto Link](https://img.shields.io/badge/Blog-Devto-black?logo=dev.to&style=for-the-badge)](https://twitter.com/ArrayLikeObj) 
+[![Twitter Link](https://img.shields.io/badge/Chat-twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/ArrayLikeObj) [![Devto Link](https://img.shields.io/badge/Blog-Devto-black?logo=dev.to&style=for-the-badge)](https://dev.to/ethanny2) 
 
 
 <p align="center">
