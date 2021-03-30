@@ -16,7 +16,7 @@ My name is **Ethan Soo Hon** a software engineer with a Bachelor's in Computer S
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ethanny2&count_private=true&show_icons=true&theme=merko" />
   </a>
   <a align="right" href="http://www.varsitytutors.com/tutors/878737786/">
-    <img width="230" align="center" src="https://i.gyazo.com/831ee394f6c42910f974f32ae476d7fd.png" />
+    <img width="200" align="center" src="https://i.gyazo.com/831ee394f6c42910f974f32ae476d7fd.png" />
   </a>
 </p>
 
