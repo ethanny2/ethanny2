@@ -21,6 +21,7 @@ My name is **Ethan Soo Hon** a software engineer with a Bachelor's in Computer S
 </p>
 
 ## Tech Stack
+<p float="left">
   <img width="40" align="center" src="html5.svg" />
   <img width="40" align="center" src="css3.svg" />
   <img width="40" align="center" src="javascript.svg" />
@@ -40,7 +41,7 @@ My name is **Ethan Soo Hon** a software engineer with a Bachelor's in Computer S
   <img width="40" align="center" src="mongodb.svg" />
   <img width="40" align="center" src="firebase.svg" />
   <img width="40" align="center" src="graphql.svg" />
-
+</p>
 
 ## About
 
